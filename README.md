@@ -9,7 +9,7 @@ The workflow goes as follows:
 2. Calculates the CAV scores for concepts
 3. Calculates the Tcav scores for layers
 4. Plots the tcav scores by layer
-5. Estimates the similarity of concept activations for layers
+5. Estimates and plots the similarity of concept activations for layers
 
 Dependencies
 ------------
@@ -22,7 +22,7 @@ Dependencies are outlined in the requirements.txt file and can be installed as f
 Running the workflow
 ------------
 
-To run the model, following needs to be run 
+To run the model, the following needs to be run 
 
 
     $ python main.py
